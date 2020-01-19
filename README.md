@@ -1,2 +1,0 @@
-# CruzHacks
-Created with CodeSandbox
